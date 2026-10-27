@@ -1,2 +1,2 @@
-print("hello world")
-print("naveen")
+hello
+e5rtyu
